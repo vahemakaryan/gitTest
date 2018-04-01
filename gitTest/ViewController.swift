@@ -19,7 +19,6 @@ class ViewController: UIViewController {
     }
     
     // MARK: - Actions
-
     @IBAction func vaheButtonAction(_ sender: Any) {
     }
     
@@ -27,6 +26,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func karenButtonAction(_ sender: Any) {
+        print("Hello, World!")
     }
     
 }
