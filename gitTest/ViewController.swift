@@ -19,7 +19,17 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    // MARK: - Actions
 
-
+    @IBAction func vaheButtonAction(_ sender: Any) {
+    }
+    
+    @IBAction func harutButtonAction(_ sender: Any) {
+    }
+    
+    @IBAction func karenButtonAction(_ sender: Any) {
+    }
+    
 }
 
